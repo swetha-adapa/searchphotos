@@ -1,0 +1,34 @@
+.app{
+  text-align: center;
+  background-color: rgb(235, 231, 226);
+}
+
+
+input{
+height:20px;
+width: 500px;
+border-radius: 5px;
+margin-right: 20px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.btn1{
+  height:30px;
+  width:100px;
+  color: white;
+background-color: rgb(110, 112, 114);
+}
+.btn2{
+  background-color: rgb(41, 40, 40);
+  border-radius: 5px;
+  color: white;
+}
+
+.img:hover{
+transform: scale(1.1);
+z-index:2
+
+}
+.img{
+  float: auto;
+}
